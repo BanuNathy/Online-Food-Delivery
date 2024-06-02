@@ -25,10 +25,10 @@
 }
 
 .navbar button{
-    background: transparent;
+    background: #0F3D0F;
     font-size: 16px;
-    color: #49557e;
-    border: 1px solid tomato;
+    color: white;
+    border: 1px solid rgb(153, 218, 119);
     padding: 10px 30px;
     border-radius: 50px;
     cursor: pointer;
@@ -37,7 +37,7 @@
 
 
 .navbar button:hover{
-    background-color: #fff4f2;
+    background-color: #767070;
 }
 
 .navbar .active{
